@@ -1,1 +1,1 @@
-# dogecoin
+# Dogecoin Project
